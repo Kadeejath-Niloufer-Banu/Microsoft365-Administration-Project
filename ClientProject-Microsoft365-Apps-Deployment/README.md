@@ -5,11 +5,11 @@ This project involved deploying Microsoft 365 Apps for enterprise across virtual
 
 ## Key Tasks
 - Installed Microsoft 365 Apps on virtual machines using trial user accounts  
-  ![Installation on VM](./install-m365-apps-vm.png)  
+  ![Installation on VM](images/install-m365-apps-vm.png)  
 - Managed license allocation via Microsoft 365 Admin Center  
-  ![License Assignment](./license-assignment.png)  
+  ![License Assignment](images/license-assignment.png)  
 - Verified successful activation and access to Office applications  
-  ![Activation Verification](./activation-verification.png)  
+  ![Activation Verification](images/activation-verification.png)  
 - Monitored license availability and usage for effective compliance  
 
 ## Tools & Technologies
