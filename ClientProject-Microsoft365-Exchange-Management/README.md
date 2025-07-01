@@ -6,7 +6,8 @@ Configured Exchange Online components to facilitate efficient and secure email c
 ## Key Tasks
 - Created shared mailboxes and distribution lists with appropriate permissions  
   ![Shared Mailbox Creation](images/shared-mailbox-creation.png)  
-- Added and managed mailbox members and group owners  
+- Added and managed mailbox members and group owners
+  ![Manage Mailbox](images/manage-mailbox.png) 
 - Conducted mail flow troubleshooting and message trace analysis  
   ![Mail Flow Trace](images/mailflow-trace.png)  
 - Configured malware and threat protection policies in Microsoft Defender  
