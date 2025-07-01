@@ -1,4 +1,4 @@
-# Microsoft 365 Tenant User and Group Management
+# Microsoft 365 User and Group Management
 
 ## Project Overview  
 Implemented user and group management for a Microsoft 365 tenant as part of provisioning and administering a secure cloud environment. The work included creating users with assigned roles, managing licenses, and establishing groups for collaboration and communication.
