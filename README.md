@@ -13,7 +13,7 @@ Folder: [ClientProject-Microsoft365-Tenant-Setup](./ClientProject-Microsoft365-T
 Summary: Provisioned Microsoft 365 tenant for a client, including trial subscription activation, creation of admin users, and license assignment to meet organizational needs.
 
 ### 2. User Roles and Access Management  
-Folder: [ClientProject-Microsoft365-User-Roles-Management](./ClientProject-Microsoft365-User-Group-Management)  
+Folder: [ClientProject-Microsoft365-User-Group-Management](./ClientProject-Microsoft365-User-Group-Management)  
 Summary: Managed user creation, role assignment, and license distribution using PowerShell scripting and Admin Center to ensure security and operational efficiency.
 
 ### 3. Exchange Mail Configuration and Troubleshooting  
