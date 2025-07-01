@@ -1,54 +1,55 @@
-# Microsoft 365 User Roles Management and Administration
+# Microsoft 365 Tenant User and Group Management
 
 ## Project Overview  
-Managed user roles and permissions within a Microsoft 365 tenant to ensure secure and efficient administration delegation. Tasks included creating users, assigning roles, managing licenses, and verifying delegated administration through both Microsoft 365 Admin Center and PowerShell.
+Implemented user and group management for a Microsoft 365 tenant as part of provisioning and administering a secure cloud environment. The work included creating users with assigned roles, managing licenses, and establishing groups for collaboration and communication.
 
 ---
 
 ## Key Project Tasks and Deliverables
 
-### 1. User Creation and Role Assignment  
-- Created new users and assigned appropriate administrative roles such as Helpdesk Administrator, Global Administrator, and Exchange Administrator.  
-- Managed license assignment for each user ensuring compliance with Microsoft 365 E3 plan.
+### 1. User Management  
+- Created multiple users through Microsoft 365 Admin Center and PowerShell automation.  
+- Assigned licenses (Microsoft 365 E3) to users to enable access to enterprise services.  
+- Designated roles including Global Administrator and Helpdesk Administrator for delegated administration.  
+- Performed user lifecycle management such as deleting and restoring users.
 
-![User Creation in Admin Center](images/user-creation-admin-center.png)  
-*User creation and role assignment via Microsoft 365 Admin Center.*
+![User Creation and Role Assignment](images/user-creation-role-assignment.png)  
+*Created users with specific administrative roles and assigned licenses.*
 
 ---
 
-### 2. Delegated Administration Verification  
-- Verified delegated admin rights by signing in as a user with limited admin privileges (e.g., Helpdesk Administrator).  
-- Compared admin center access differences between Global Administrator and Helpdesk Administrator accounts.
+### 2. Group Creation and Membership  
+- Created Microsoft 365 groups and Distribution Lists via Admin Center.  
+- Added users to groups to facilitate communication and collaboration.  
+- Configured group privacy, ownership, and membership approval settings.  
+- Differentiated group types to suit organizational needs (collaborative vs email distribution).
+
+![Microsoft 365 Group Creation](images/group-creation.png)  
+*Setup of Microsoft 365 Group and assignment of owners and members.*
+
+![Distribution List Setup](images/distribution-list-setup.png)  
+*Configured Distribution List with owners and membership rules.*
+
+---
+
+### 3. Delegated Administration and Verification  
+- Verified delegated administrator roles by logging in with accounts having limited permissions.  
+- Compared dashboards and access levels between Global Admin and Helpdesk Admin roles to ensure proper role segregation.
 
 ![Delegated Admin Dashboard](images/delegated-admin-dashboard.png)  
-*Helpdesk Administrator dashboard view with limited access compared to Global Admin.*
-
----
-
-### 3. PowerShell Role and User Management  
-- Installed Microsoft 365 PowerShell module.  
-- Used PowerShell commands to create users, assign licenses, and manage roles programmatically.
-
-![PowerShell User Management](images/powershell-user-management.png)  
-*PowerShell script output showing user creation and role assignment.*
+*Helpdesk Administrator limited admin access verified.*
 
 ---
 
 ## Tools and Technologies Used  
 - Microsoft 365 Admin Center  
 - Microsoft 365 PowerShell Module  
-- Microsoft 365 E3 License Management  
+- Microsoft 365 E3 License  
+- Group Management and Security Principles  
 
 ---
 
 ## Project Outcomes  
-- Established delegated admin roles to distribute responsibilities securely.  
-- Automated user and license management tasks using PowerShell.  
-- Improved tenant security by adhering to role-based access control best practices.
-
----
-
-## Skills Demonstrated  
-- User and role management in Microsoft 365  
-- Delegated administration and security principle implementation  
-- PowerShell scripting for Microsoft 365 automation  
+- Efficient user provisioning with role-based access controls in Microsoft 365.  
+- Established collaboration groups tailored for organizational communication.  
+- Enhan
