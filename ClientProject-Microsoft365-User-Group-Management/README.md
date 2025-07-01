@@ -13,7 +13,7 @@ Implemented user and group management for a Microsoft 365 tenant as part of prov
 - Designated roles including Global Administrator and Helpdesk Administrator for delegated administration.  
 - Performed user lifecycle management such as deleting and restoring users.
 
-![User Creation and Role Assignment](images/user-creation-role-assignment.png)  
+![User Creation and License Assignment](images/user-creation-license-assignment.png)  
 *Created users with specific administrative roles and assigned licenses.*
 
 ---
